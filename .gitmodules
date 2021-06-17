@@ -1,0 +1,36 @@
+[submodule "mrp_core"]
+	path = mrp_core
+	url = https://github.com/mufty/mrp_core.git
+[submodule "mrp_chat"]
+	path = mrp_chat
+	url = https://github.com/mufty/mrp_chat.git
+[submodule "mrp_banking"]
+	path = mrp_banking
+	url = https://github.com/mufty/mrp_banking.git
+[submodule "mrp_charselect"]
+	path = mrp_charselect
+	url = https://github.com/mufty/mrp_charselect
+[submodule "mrp_lscustoms"]
+	path = mrp_lscustoms
+	url = https://github.com/mufty/mrp_lscustoms
+[submodule "mrp_parking"]
+	path = mrp_parking
+	url = https://github.com/mufty/mrp_parking
+[submodule "mrp_phone"]
+	path = mrp_phone
+	url = https://github.com/mufty/mrp_phone
+[submodule "mrp_races"]
+	path = mrp_races
+	url = https://github.com/mufty/mrp_races
+[submodule "mrp_radial_menu"]
+	path = mrp_radial_menu
+	url = https://github.com/mufty/mrp_radial_menu
+[submodule "mrp_ui_player"]
+	path = mrp_ui_player
+	url = https://github.com/mufty/mrp_ui_player
+[submodule "mrp_vehicle"]
+	path = mrp_vehicle
+	url = https://github.com/mufty/mrp_vehicle
+[submodule "mrp_vehicle_dashboard"]
+	path = mrp_vehicle_dashboard
+	url = https://github.com/mufty/mrp_vehicle_dashboard
