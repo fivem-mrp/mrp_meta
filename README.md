@@ -9,4 +9,6 @@ Meta package containing all MRP modules
 
 ## License
 
-Refer to [mufty/mrp_core](https://github.com/mufty/mrp_core) for licensing details.
+Refer to [mufty/mrp_core](https://github.com/mufty/mrp_core/LICENSE) for licensing details.
+
+Check [LICENSE](LICENSE) to see the license for the meta repository itself.
